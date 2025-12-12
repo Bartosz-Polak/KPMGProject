@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="CrmPackage/CrmPackage.csproj" Type="88a30576-7583-4f75-8136-5efd2c14adff" Id="f30bb743-ca11-49f2-bbe7-f18ee27d4977">
+    <BuildDependency Project="Plugins/Plugins.csproj" />
+    <Deploy />
+  </Project>
+  <Project Path="Plugins/Plugins.csproj" Id="ebd409c5-2e83-4a9c-9469-c3c2d6bd25fa" />
+  <Properties Name="CRMSolutionProperties">
+    <Property Name="SolutionIsBoundToCRM" Value="True" />
+  </Properties>
+</Solution>
